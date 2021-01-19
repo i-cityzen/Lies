@@ -1225,6 +1225,26 @@ https://yenbaitv.org.vn/hls/livestream.m3u8
 
 
 
+## Test ##
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/salam.png" group-title="Malaysia",SALAM
+http://1.9.62.158/PLTV/88888888/224/3221227558/3221227558.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/sensasi.png" group-title="Malaysia",SENSASI
+http://1.9.62.158/PLTV/88888888/224/3221227598/3221227598.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=NTI4OTRjNWMtMzMzYi0zMWNiLWFjNjktMzUzYThkZmVmYzkz
+#EXTINF:-1 tvg-ID=".MY" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/al-hijrah.png" group-title="Malaysia",TV SEMBILAN
+http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd
+
+
 
 
 
