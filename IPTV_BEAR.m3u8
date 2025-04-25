@@ -13,7 +13,7 @@
 
 
 #################################UPDATE PASTE HERE###########################################################################################
-  
+
 
 #############################################################################################################################################
 
@@ -45,11 +45,11 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; Xperia 5 Build/BeaeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDQ4ODg0MTksImlzcyI6IlZSIiwiZXhwIjoxNzQ0OTI5MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmE1MzU4YmItNWFmMy00ZmQ3LWFjNTYtOTJjYzYyZWU1MmZhIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIiwicGF0dGVybiI6IjI1MDcifQ.7Z2gy5UZPo1KGW2oSd611tAmJl0Qy0NrH7NnAXNlv9o5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.BkWDujdfuYgIuoHodsw1Kshx0h6BhW4egKD8ymY4e2s; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 
+#EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/STMB_TV3.png/290px-STMB_TV3.png" group-title="MALAYSIA🇲🇾",TV3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
-#EXTINF:-1 ttvg-id="TV3" ch-number="103" tvg-name="TV3" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", 103 TV3
 #EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; Xperia 5 Build/BeaeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDQ4ODg0MTksImlzcyI6IlZSIiwiZXhwIjoxNzQ0OTI5MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmE1MzU4YmItNWFmMy00ZmQ3LWFjNTYtOTJjYzYyZWU1MmZhIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIiwicGF0dGVybiI6IjI1MDcifQ.7Z2gy5UZPo1KGW2oSd611tAmJl0Qy0NrH7NnAXNlv9o5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.BkWDujdfuYgIuoHodsw1Kshx0h6BhW4egKD8ymY4e2s; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 
@@ -82,13 +82,11 @@ https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/R%C2%A1%40.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://live.rocket-tv.online/lic.php
 https://live.rocket-tv.online/Astro_Ria/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroCitra" ch-number="108" tvg-name="CITRA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Malaysia",Astro Citra HD
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/%C2%A9%EF%B8%8F%C2%A17%C2%AE%EF%B8%8F%E2%88%86.m3u8
+#EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Citra_%282024%29.png/400px-Astro_Citra_%282024%29.png" group-title="MALAYSIA🇲🇾",ASTRO CITRA
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2679.ts
 
-#EXTINF:-1 tvg-id="AstroPrima" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",PRIMA HD
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/P%C2%AE%EF%B8%8F%C2%A1%CF%80%CF%80%E2%88%86.m3u8
+#EXTINF:-1 tvg-id="105" tvg-name="ASTRO PRIMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Astro_Prima_%282024%29.png/440px-Astro_Prima_%282024%29.png" group-title="MALAYSIA🇲🇾",ASTRO PRIMA HD
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2677.ts
 
 #EXTINF:-1 tvg-id="AstroRania" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png" group-title="Malaysia",Rania 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
