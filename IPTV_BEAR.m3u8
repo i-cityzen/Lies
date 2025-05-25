@@ -548,6 +548,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
 
+#EXTINF:-1 tvg-id="ONE" tvg-name="tvOne" ch-number="393" group-title="KOREAN" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png", ONE HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Red+aounZ7Y8rP2wHvKsKQ", "kid":"2P45jHkGUXP6l4jyJgVlEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
+
 #EXTINF:-1 group-logo="" group-title="KOREAN" tvg-id="392.astro" tvg-logo="https://perfecttv.net/logo/kbsworld.png" ,204 KBS World
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=692950d39869c92af9a9ddea453c0d10:eadc626ab959255f7ab881c03d306fe2
@@ -1348,7 +1354,37 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=1
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 
 ########################################################################INDONESIA#########################################################################################
+
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://iili.io/H7B4QYF.png" group-title="INDONESIA",
+
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://get.perfecttv.net/logo/sctv.png" group-title="INDONESIA",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2699.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://get.perfecttv.net/logo/indosiar.png" group-title="INDONESIA",Indosiar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="109 Awesome" tvg-logo="https://get.perfecttv.net/logo/awesome.png" group-title="MALAYSIA",Awesome
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Trans7" tvg-logo="https://get.perfecttv.net/logo/trans7.png" group-title="INDONESIA",Trans7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2705.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Trans Tv" tvg-logo="https://get.perfecttv.net/logo/transtv.png" group-title="INDONESIA",Trans Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2704.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://get.perfecttv.net/logo/rcti.png" group-title="INDONESIA",RCTI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2701.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://get.perfecttv.net/logo/mnctv.png" group-title="INDONESIA",MNCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2700.ts
+
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.kindpng.com/picc/m/335-3354292_tvone-logo-logo-tv-one-2019-hd-png.png", 01 TVONE HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
